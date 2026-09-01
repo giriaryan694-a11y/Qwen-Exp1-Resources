@@ -16,7 +16,7 @@ Resources and scripts used during **Qwen Experiment 1**.
 
 The full experiment write-up and analysis will be published separately on **AryterLog**:
 
-**Write-up:** Coming soon
+**Write-up:** https://giriaryan694-a11y.github.io/AryterLog/posts/qwen-ui-limitations-vs-model-capabilities/
 
 ---
 
@@ -142,4 +142,4 @@ These scripts are **experiment resources**, not the experiment's main write-up.
 
 The detailed methodology, observations, results, and analysis will be documented separately on AryterLog.
 
-**AryterLog write-up:** Coming soon
+**AryterLog write-up:** https://giriaryan694-a11y.github.io/AryterLog/posts/qwen-ui-limitations-vs-model-capabilities/
